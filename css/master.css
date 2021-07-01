@@ -1,0 +1,217 @@
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+}
+
+article {
+  margin-top: 10px;
+}
+
+.Tekstvakboven h1 {
+  margin-left: 35%;
+  margin-top: 2%;
+  border-radius: 15px;
+  background-color: white;
+  background-repeat: repeat;
+  padding: 20px;
+  padding-bottom: 1px;
+  width: 400px;
+  height: 70px;
+  border-style: inset;
+  border-color: green;
+  border-width: 6px;
+  text-align: center;
+}
+
+.Tekstvakonder {
+ text-align: center;
+  margin-left: 18%;
+  margin-top: 2%;
+  border-radius: 15px;
+  background-color: white;
+  background-repeat: repeat;
+  padding: 20px;
+  padding-bottom: 1px;
+  width: 950px;
+  height: 200px;
+  border-style: inset;
+  border-color: green;
+  border-width: 6px;
+}
+.FotoLinks img{
+  margin: 40px;
+  float: left;
+  width: 400px;
+  height: 260px;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  box-shadow: 5px 5px 15px #888888;
+  margin-top: -20%;
+  margin-bottom: 4%;
+}
+.Fotowerkplaats img{
+  margin: 40px;
+  float: left;
+  width: 300px;
+  height: 120px;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  box-shadow: 5px 5px 15px #888888;
+}
+.overons h1{
+  margin-left: 20%;
+  margin-top: 2%;
+  border-radius: 15px;
+  background-color: white;
+  background-repeat: repeat;
+  padding: 20px;
+  padding-bottom: 1px;
+  width: 900px;
+  height: 200px;
+  border-style: inset;
+  border-color: green;
+  border-width: 6px;
+  text-align: center;
+}
+.werkplaats h1 {
+  margin-left: 24%;
+  margin-bottom: 2%;
+  border-radius: 15px;
+  background-color: white;
+  background-repeat: repeat;
+  padding: 20px;
+  padding-bottom: 1px;
+  width: 800px;
+  height: 300px;
+  border-style: inset;
+  border-color: green;
+  border-width: 6px;
+  text-align: center;
+}
+.contact h1{
+  float: left;
+  border-radius: 15px;
+  background-color: white;
+  background-repeat: repeat;
+  padding: 20px;
+  padding-bottom: 1px;
+  width: 630px;
+  height: 190px;
+  border-style: inset;
+  border-color: green;
+  border-width: 6px;
+  text-align: left;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+}
+.contact h2{
+  float: left;
+  border-radius: 15px;
+  background-color: white;
+  background-repeat: repeat;
+  padding: 20px;
+  padding-bottom: 1px;
+  width: 630px;
+  height: 130px;
+  border-style: inset;
+  border-color: green;
+  border-width: 6px;
+  text-align: left;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+}
+
+.Fotocontact img{
+  margin: 40px;
+  margin-top: -30%;
+  float: right;
+  width: 630px;
+  height: 290px;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  box-shadow: 5px 5px 15px #888888;
+}
+
+.formulier {
+  background-color: red;
+  margin-left: 60%;
+  margin-top: -35%;
+  margin-right: 3%;
+  width: 500px;
+}
+
+.formulier h1 {
+  background-color: transparent;
+  color: white;
+  width: 400px;
+}
+
+.form_input {
+  border: none;
+  border-bottom: 3px solid #6633FF;
+  background:transparent;
+  text-align: center;
+  width: 200px;
+  color: white;
+}
+
+.text_form {
+  border: 3px solid #6633FF;
+  text-align: center;
+  background: transparent;
+  border-radius: 5px;
+  color: white;
+width: 400px;
+}
+
+hr {
+  border: 2px solid #6633FF;
+}
+
+.form_btn {
+  background-color: transparent;
+  border: 3px solid #6633FF;
+  border-radius: 5px;
+  color: white;
+}
+h3{
+  float: left;
+  margin-top: -38%;
+  margin-left: 14%;
+  text-align: left;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+}
+
+.inlog_form {
+  margin-top: 60px;
+  text-align: center;
+  margin-left: 270px;
+  align-items: center;
+
+}
+
+.form_tel {
+  width: 220px;
+}
+h6{
+  float: right;
+  margin-top: -38%;
+  margin-right: 4%;
+  text-align: right;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+}
+
+.products_uitlog {
+  text-align: center;
+  font-weight: bold;
+  background: #9999FF;
+  color: white;
+}

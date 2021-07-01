@@ -1,0 +1,54 @@
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+}
+
+article {
+  margin-top: -20px;
+  margin-left: 30%;
+  border: 3px solid #5da7c8;
+  border-radius: 15px;
+  background-color: #5da7c8;
+  width: 600px;
+  height: 530px;
+  text-align: center;
+  padding: 13px;
+}
+
+.formulier {
+  background-color: #5da7c8;
+}
+
+.formulier h1 {
+  background-color: transparent;
+  color: white;
+}
+
+.form_input {
+  border: none;
+  border-bottom: 3px solid #5d5f68;
+  background:transparent;
+  text-align: center;
+  width: 300px;
+  color: white;
+}
+
+.text_form {
+  border: 3px solid #5d5f68;
+  text-align: center;
+  background: transparent;
+  border-radius: 5px;
+  color: white;
+  width: 500px;
+}
+
+hr {
+  border: 2px solid #5d5f68;
+}
+
+.form_btn {
+  background-color: transparent;
+  border: 3px solid #5d5f68;
+  border-radius: 5px;
+  color: white;
+}
